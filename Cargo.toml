@@ -2,6 +2,7 @@
 resolver = "3"
 members = [
     "packages/analytics",
+    "packages/user-management",
 ]
 
 [workspace.package]
